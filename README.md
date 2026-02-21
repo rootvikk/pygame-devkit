@@ -33,7 +33,7 @@ pip install pygame
 
 ## 📁Structure
 
-* `core/` → game loop, delta time
+* `basics.py` → game loop, delta time
 * `drawing.py` → shapes, rects, surfaces, text
 * `input.py` → keyboard & mouse
 * `movement.py` → movement logic
