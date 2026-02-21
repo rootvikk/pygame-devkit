@@ -22,5 +22,4 @@ while(running):
     pygame.draw.circle(screen, ("BLUE"), (400, 100), 50)
     
     pygame.display.flip()
-    #test
 pygame.quit()
